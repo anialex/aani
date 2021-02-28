@@ -5,3 +5,7 @@ email: i.alexanderani@gmail.com
 description: Temporary online presence
 twitter_username: 
 linkedin_username: alexanderani
+
+# Build settings
+markdown: kramdown
+theme: minima 
